@@ -28,6 +28,7 @@ body{
 	text-align: center;
 }
 .cartao{
+	box-shadow: 1px 1px 10px;
 	border-radius: 10px;
 	width: 267px;
 	margin-top: 5px;
